@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "socket.io-client": "^2.0.1",
-    "nodeimu"
+    nodeimu: "^2.1.7"
   }
 }
